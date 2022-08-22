@@ -1,0 +1,11 @@
+{
+  "name": "server-t",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:serIvanich/server-t.git",
+  "author": "serIvanich <serivan1108@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
